@@ -1,0 +1,37 @@
+_repo: Quotes-and-Images-from-Christopher-Columbus_7540
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 7540/7540-h/images/bookcover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Young, Filson
+    aliases:
+    - Young, A. B. Filson (Alexander Bell Filson)
+    - Young, Alexander Bell Filson
+    birthdate: 1876
+    deathdate: 1938
+    gutenberg_agent_id: '1393'
+    url: http://www.gutenberg.org/2009/agents/1393
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2004-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7540'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Quotations'
+- GITenberg
+title: Quotes and Images from Christopher Columbus
+url: http://www.gutenberg.org/ebooks/7540
