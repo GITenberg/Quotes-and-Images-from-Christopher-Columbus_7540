@@ -1,10 +1,8 @@
 _repo: Quotes-and-Images-from-Christopher-Columbus_7540
-_version: 0.0.1
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 7540/7540-h/images/bookcover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 7540-h/images/bookcover.jpg
 creator:
   author:
     agent_name: Young, Filson
@@ -21,6 +19,8 @@ creator:
     gutenberg_agent_id: '1961'
     url: http://www.gutenberg.org/2009/agents/1961
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7540#Quotes-and-Images-from-Christopher-Columbus
 gutenberg_issued: '2004-08-30'
 gutenberg_type: Text
 identifiers:
